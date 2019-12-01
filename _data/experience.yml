@@ -5,3 +5,5 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     I was working in AVPL to built a queuing simulation for a pharmacy by using Unity3D and Cave automatic virtual environment
+
+    By using this simulation system, we studied how does the layout of pharmacy affect user behaviour  
