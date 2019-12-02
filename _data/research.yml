@@ -1,4 +1,4 @@
-- name: Thompson Sampling Algorithms for Gaussian Mean-Variance Bandits
+- name: [1] Thompson Sampling Algorithms for Gaussian Mean-Variance Bandits
   link: maxqyzhu.github.io
   authors: Qiuyu Zhu, Vincent Tan
   description: 
