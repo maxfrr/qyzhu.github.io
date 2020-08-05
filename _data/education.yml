@@ -1,7 +1,13 @@
+- name: National University of Singapore
+  dates: 2017 - present
+  qualification: Operations Research
+  description: | 
+    
+    
 - name: University of Science and Technology of China
   dates: 2013 - 2017
   qualification: Statistics
-  quote: >
-    USTC was established by the Chinese Academy of Sciences (CAS) in 1958 in Beijing, as a strategic action by the Chinese government, to meet China’s science and technology needs and increases the country’s international competitiveness.
   description: | 
+     GPA: 3.92/4.3
     
+     Thesis: Dynamic Price Competition without Knowing Demand Function
