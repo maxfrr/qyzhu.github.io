@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Qiuyu and I'm a PhD student from National University of Singapore. My research interest is: Machine Learning, Supply Chain Management, Statistics and Information Theory.
 
-  Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+  Email: <a href="mailto:{{ qiuyu_zhu@u.nus.edu }}" target="_blank">{{ qiuyu_zhu@u.nus.edu }}</a>
   
   Skills: <mark>Probability</mark>, Statistics, <mark>R</mark>, Python, Matlab, C#, Unity
 
